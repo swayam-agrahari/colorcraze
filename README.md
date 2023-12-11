@@ -46,3 +46,14 @@ Start the application:
     npm start
     
 This will launch the Electron app with the React frontend.
+
+Here is a small demo video:
+
+[Screencast from 11-12-23 11:08:25 PM IST.webm](https://github.com/swayam-agrahari/colorcraze/assets/109474492/c635d545-1b52-4cd4-87e0-c2354510bed6)
+
+Screenshots:
+![Screenshot1](https://github.com/swayam-agrahari/colorcraze/assets/109474492/83194e93-68af-41d7-a9ec-7884445bd482)
+![Screenshot2](https://github.com/swayam-agrahari/colorcraze/assets/109474492/d07b5cca-c50e-4e66-a1c6-882012c8c26c)
+
+
+
